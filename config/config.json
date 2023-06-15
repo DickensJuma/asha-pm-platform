@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": "test123",
     "database": "asha_db",
-    "host": "127.0.0.1",
+    "host": "postgres://postgres:bluewave-postgres@bluewave-postgres.cemxniymyjt7.us-east-1.rds.amazonaws.com:5432",
     "dialect": "postgres"
   },
   "test": {
@@ -21,3 +21,4 @@
     "dialect": "mysql"
   }
 }
+
