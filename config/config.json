@@ -16,9 +16,9 @@
   "production": {
     "username": "postgres",
     "password": "test123",
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "database": "asha_db",
+    "host": "postgres://postgres:bluewave-postgres@bluewave-postgres.cemxniymyjt7.us-east-1.rds.amazonaws.com:5432",
+    "dialect": "postgres"
   }
 }
 
